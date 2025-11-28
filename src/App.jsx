@@ -286,9 +286,6 @@ export default function App() {
                                 </span>
                             </div>
 
-                            <p className="text-gray-500 mb-8 text-lg">
-                                Generate a high-difficulty passage mimicking <strong>{DAILY_SOURCE}</strong> with CAT-level inference questions.
-                            </p>
                             
                             <button 
                                 onClick={generateRC} 
