@@ -7,7 +7,7 @@ import { getFirestore, doc, setDoc, getDoc, updateDoc, collection, query, orderB
 // --- DAILY CONFIGURATION (FOR CREATOR ONLY) ---
 // Update this string daily to change the source for everyone.
 // Examples: "The Hindu", "Aeon Essays", "The Guardian", "Project Syndicate", "Scientific American"
-const DAILY_SOURCE = "The Hindu"; 
+const DAILY_SOURCE = '/Users/hrishavdatta/Desktop/Sigma Web Course/RC Maker/newspapers/TH_Kolkata_27-11-2025.pdf'; 
 
 // --- FIREBASE CONFIGURATION ---
 // IMPORTANT: Paste your real Firebase config here again!
